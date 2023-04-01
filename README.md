@@ -7,12 +7,12 @@
 <a href="https://linkedin.com/in/Muxammedali" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
 
 ## Tech Stack 💻
+
 #### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=c++)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
-  
   
 #### JS Framework/Library
    
@@ -26,12 +26,11 @@
 ![SASS](https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=sass)
   
 #### Design/Visual Tools
-  
+ 
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-000?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-000?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom)
-  
+![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-000?style=for-the-badge&logo=adobe%20lightroom) 
   
 #### Backend
 ![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=for-the-badge&logo=node.js&logoColor=pink)
@@ -42,17 +41,13 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-000?style=for-the-badge&logo=heroku)
 ![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-000?style=for-the-badge&logo=github)
 ![Netlify](https://img.shields.io/badge/-Netlify-000?style=for-the-badge&logo=netlify)
-  
-  
-  
+   
 #### Package Manager
 ![NPM](https://img.shields.io/badge/-NPM-000?style=for-the-badge&logo=npm)
   
-  
-  #### Version Control
+#### Version Control
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github)
-  
   
   ``` C++
 if (codeWorking){
@@ -62,14 +57,6 @@ if (codeWorking){
         }
 // - Muxammedali
 ```
-  <!--
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) -->
-  
-  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Muxammedali&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Muxammedali&theme=gotham&hide_border=false)<br/>
@@ -85,13 +72,9 @@ if (codeWorking){
 ![](https://github-contributor-stats.vercel.app/api?username=Muxammedali&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### Thanks for Visiting my GitHub Profile!
-
 ---
 <p align="center">
 <img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
 </p>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Muxammedali&icon=6&color=0)](https://visitcount.itsvg.in)
-
-
