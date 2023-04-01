@@ -1,12 +1,11 @@
 <h1 align="center"> Hi 👋🏻, I'm Muxammedali </br> 
 </h1>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
 <br>
 <p align="center">
 <a href="https://linkedin.com/in/Muxammedali" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a></p>
-<br>
+
 ## Tech Stack 💻
 
 #### Languages
@@ -79,3 +78,5 @@ if (codeWorking){
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Muxammedali&icon=6&color=0)](https://visitcount.itsvg.in)
+
+
