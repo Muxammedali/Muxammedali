@@ -18,7 +18,7 @@
    
 ![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=node.js)
   
 #### CSS Framework/Library/Pre-processors
   
