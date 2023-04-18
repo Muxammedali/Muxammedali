@@ -4,7 +4,7 @@
 <p align="center">Turning imagination into reality 🚀</p>
 <br>
 <p align="center">
-//my linked in here 
+//my linked in here (i add maybe next time) 
 
 ## Tech Stack 💻
 
