@@ -73,9 +73,6 @@ if (codeWorking){
 
 ### Thanks for Visiting my GitHub Profile!
 ---
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
-</p>
 
 [![](https://visitcount.itsvg.in/api?id=Muxammedali&icon=6&color=0)](https://visitcount.itsvg.in)
 
