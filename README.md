@@ -74,6 +74,6 @@ if (codeWorking){
 ### Thanks for Visiting my GitHub Profile!
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Muxammedali&icon=6&color=0)]
+![](https://visitcount.itsvg.in/api?id=Muxammedali&icon=6&color=0)
 
 
