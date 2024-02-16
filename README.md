@@ -1,7 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Muxammedali </br> 
 </h1>
 <p align="center">I love creating new things ⚡</p>
-<p align="center">Turning imagination into reality 🚀</p>
 <br>
 <p align="center">
 //my linked in here (i add maybe next time) 
@@ -16,8 +15,8 @@
   
 #### JS Framework/Library
    
-![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/-ReactJS-000?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-AngularJS-000?style=for-the-badge&logo=angular)
 ![NodeJS](https://img.shields.io/badge/Node.JS-000?style=for-the-badge&logo=node.js)
   
 #### CSS Framework/Library/Pre-processors
