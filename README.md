@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋🏻, I'm Muxammedali </br> 
 </h1>
-<p align="center">I love creating new things ⚡</p>
+<p align="center">Let's create something that changes everything.🌱</p>
 <br>
 <p align="center">
 //my linked in here (i add maybe next time) 
